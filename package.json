@@ -1,0 +1,11 @@
+{
+  "name": "andreas-strom",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@fontsource/jetbrains-mono": "^5.2.5",
+    "vite": "^6.2.1"
+  }
+}
